@@ -1,2 +1,5 @@
 - 👋 Hi, I’m Rodrigo
 - 👀 I’m interested in learn
+- #Estou estudando na Alura
+- -Estou me desenvolvimento de linguagen JavaScript
+- 
