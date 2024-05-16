@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rodrigo
+- 👀 I’m interested in learn
+- 📫 How to reach me @rodrigsato
