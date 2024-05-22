@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Rodrigo
-- 👀 I’m interested in learn
-- #Estou estudando na Alura
-- -Estou me desenvolvimento de linguagen JavaScript
-- 
+- 👋 Bem vindo ao meu perfil
+- Meu nome é Rodrigo
+- Tenho interesse em aprender cada vez mais
+- Portugues fluente e Ingles Intermediario 
+- Estou estudando na Alura
+- Atualmente estudando desenvolvimento de linguagen JavaScript
