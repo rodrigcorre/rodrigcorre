@@ -4,3 +4,4 @@
 - Portugues fluente e Ingles Intermediario 
 - Estou estudando na Alura
 - Atualmente estudando desenvolvimento de linguagen JavaScript
+- https://seducsp-my.sharepoint.com/:w:/g/personal/00001111689544sp_aluno_educacao_sp_gov_br/EdViEKBG_7pCmH0-kw4jwmwBXwvynk684zB_EAZq-q2A3g?e=gL7PWy
